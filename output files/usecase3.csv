@@ -1,0 +1,501 @@
+date,username,text,clean_text,polarity,subjectivity,sentiment,date_num,date_only
+2024-10-10,user_0,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739169,2024-10-10
+2024-02-17,user_1,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,738933,2024-02-17
+2024-08-03,user_2,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739101,2024-08-03
+2024-01-05,user_3,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,738890,2024-01-05
+2024-10-06,user_4,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739165,2024-10-06
+2024-04-12,user_5,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738988,2024-04-12
+2024-05-09,user_6,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739015,2024-05-09
+2024-05-24,user_7,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739030,2024-05-24
+2024-05-11,user_8,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,739017,2024-05-11
+2024-07-29,user_9,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739096,2024-07-29
+2024-01-06,user_10,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,738891,2024-01-06
+2024-03-30,user_11,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,738975,2024-03-30
+2024-10-02,user_12,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739161,2024-10-02
+2024-03-14,user_13,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,738959,2024-03-14
+2024-09-18,user_14,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739147,2024-09-18
+2024-03-20,user_15,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738965,2024-03-20
+2024-06-03,user_16,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739040,2024-06-03
+2024-07-11,user_17,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739078,2024-07-11
+2024-04-24,user_18,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739000,2024-04-24
+2024-02-20,user_19,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738936,2024-02-20
+2024-02-23,user_20,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738939,2024-02-23
+2024-01-25,user_21,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738910,2024-01-25
+2024-06-29,user_22,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739066,2024-06-29
+2024-09-05,user_23,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739134,2024-09-05
+2024-05-12,user_24,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739018,2024-05-12
+2024-07-17,user_25,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739084,2024-07-17
+2024-09-16,user_26,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739145,2024-09-16
+2024-07-30,user_27,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739097,2024-07-30
+2024-01-09,user_28,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738894,2024-01-09
+2024-05-07,user_29,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739013,2024-05-07
+2024-07-21,user_30,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739088,2024-07-21
+2024-02-29,user_31,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738945,2024-02-29
+2024-09-12,user_32,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739141,2024-09-12
+2024-09-06,user_33,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739135,2024-09-06
+2024-08-26,user_34,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739124,2024-08-26
+2024-03-30,user_35,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,738975,2024-03-30
+2024-03-22,user_36,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738967,2024-03-22
+2024-01-21,user_37,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,738906,2024-01-21
+2024-07-26,user_38,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739093,2024-07-26
+2024-02-05,user_39,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738921,2024-02-05
+2024-05-25,user_40,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739031,2024-05-25
+2024-02-05,user_41,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738921,2024-02-05
+2024-09-13,user_42,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739142,2024-09-13
+2024-02-02,user_43,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,738918,2024-02-02
+2024-08-05,user_44,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739103,2024-08-05
+2024-09-22,user_45,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739151,2024-09-22
+2024-01-03,user_46,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,738888,2024-01-03
+2024-01-14,user_47,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,738899,2024-01-14
+2024-07-06,user_48,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739073,2024-07-06
+2024-09-07,user_49,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739136,2024-09-07
+2024-09-01,user_50,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739130,2024-09-01
+2024-10-09,user_51,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739168,2024-10-09
+2024-03-04,user_52,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738949,2024-03-04
+2024-03-04,user_53,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,738949,2024-03-04
+2024-01-13,user_54,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738898,2024-01-13
+2024-07-28,user_55,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739095,2024-07-28
+2024-08-14,user_56,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739112,2024-08-14
+2024-06-14,user_57,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739051,2024-06-14
+2024-04-20,user_58,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,738996,2024-04-20
+2024-03-15,user_59,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738960,2024-03-15
+2024-06-03,user_60,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739040,2024-06-03
+2024-04-24,user_61,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739000,2024-04-24
+2024-03-09,user_62,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738954,2024-03-09
+2024-05-14,user_63,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739020,2024-05-14
+2024-01-08,user_64,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738893,2024-01-08
+2024-08-23,user_65,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739121,2024-08-23
+2024-07-20,user_66,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739087,2024-07-20
+2024-07-30,user_67,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739097,2024-07-30
+2024-06-26,user_68,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739063,2024-06-26
+2024-10-18,user_69,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739177,2024-10-18
+2024-02-29,user_70,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738945,2024-02-29
+2024-03-29,user_71,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,738974,2024-03-29
+2024-07-31,user_72,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739098,2024-07-31
+2024-10-26,user_73,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739185,2024-10-26
+2024-01-12,user_74,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738897,2024-01-12
+2024-06-09,user_75,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739046,2024-06-09
+2024-02-06,user_76,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738922,2024-02-06
+2024-07-12,user_77,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739079,2024-07-12
+2024-01-15,user_78,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738900,2024-01-15
+2024-05-30,user_79,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739036,2024-05-30
+2024-05-07,user_80,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739013,2024-05-07
+2024-03-07,user_81,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738952,2024-03-07
+2024-03-26,user_82,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738971,2024-03-26
+2024-09-30,user_83,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739159,2024-09-30
+2024-05-01,user_84,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739007,2024-05-01
+2024-10-10,user_85,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739169,2024-10-10
+2024-01-03,user_86,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738888,2024-01-03
+2024-04-22,user_87,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738998,2024-04-22
+2024-01-25,user_88,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,738910,2024-01-25
+2024-06-23,user_89,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739060,2024-06-23
+2024-04-23,user_90,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,738999,2024-04-23
+2024-10-18,user_91,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739177,2024-10-18
+2024-06-13,user_92,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739050,2024-06-13
+2024-04-21,user_93,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,738997,2024-04-21
+2024-06-17,user_94,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739054,2024-06-17
+2024-02-06,user_95,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,738922,2024-02-06
+2024-02-12,user_96,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738928,2024-02-12
+2024-02-22,user_97,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,738938,2024-02-22
+2024-02-16,user_98,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,738932,2024-02-16
+2024-03-23,user_99,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,738968,2024-03-23
+2024-06-18,user_100,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739055,2024-06-18
+2024-09-03,user_101,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739132,2024-09-03
+2024-03-04,user_102,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,738949,2024-03-04
+2024-05-13,user_103,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739019,2024-05-13
+2024-05-16,user_104,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739022,2024-05-16
+2024-03-03,user_105,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738948,2024-03-03
+2024-09-15,user_106,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739144,2024-09-15
+2024-09-30,user_107,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739159,2024-09-30
+2024-09-14,user_108,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739143,2024-09-14
+2024-10-15,user_109,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739174,2024-10-15
+2024-06-20,user_110,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739057,2024-06-20
+2024-05-21,user_111,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739027,2024-05-21
+2024-10-24,user_112,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739183,2024-10-24
+2024-08-02,user_113,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739100,2024-08-02
+2024-08-22,user_114,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739120,2024-08-22
+2024-01-29,user_115,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,738914,2024-01-29
+2024-06-18,user_116,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739055,2024-06-18
+2024-03-28,user_117,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,738973,2024-03-28
+2024-06-12,user_118,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739049,2024-06-12
+2024-02-24,user_119,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,738940,2024-02-24
+2024-01-28,user_120,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738913,2024-01-28
+2024-03-28,user_121,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738973,2024-03-28
+2024-04-28,user_122,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739004,2024-04-28
+2024-07-17,user_123,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739084,2024-07-17
+2024-04-09,user_124,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738985,2024-04-09
+2024-02-19,user_125,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738935,2024-02-19
+2024-06-11,user_126,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739048,2024-06-11
+2024-07-25,user_127,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739092,2024-07-25
+2024-05-17,user_128,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739023,2024-05-17
+2024-04-22,user_129,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738998,2024-04-22
+2024-06-24,user_130,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739061,2024-06-24
+2024-10-20,user_131,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739179,2024-10-20
+2024-05-19,user_132,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,739025,2024-05-19
+2024-10-04,user_133,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739163,2024-10-04
+2024-05-31,user_134,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739037,2024-05-31
+2024-06-11,user_135,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739048,2024-06-11
+2024-07-15,user_136,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739082,2024-07-15
+2024-08-02,user_137,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739100,2024-08-02
+2024-02-12,user_138,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738928,2024-02-12
+2024-01-21,user_139,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,738906,2024-01-21
+2024-02-18,user_140,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,738934,2024-02-18
+2024-08-28,user_141,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739126,2024-08-28
+2024-03-07,user_142,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,738952,2024-03-07
+2024-10-08,user_143,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739167,2024-10-08
+2024-04-26,user_144,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739002,2024-04-26
+2024-06-16,user_145,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739053,2024-06-16
+2024-10-09,user_146,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739168,2024-10-09
+2024-09-08,user_147,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739137,2024-09-08
+2024-08-01,user_148,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739099,2024-08-01
+2024-04-08,user_149,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738984,2024-04-08
+2024-06-30,user_150,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739067,2024-06-30
+2024-06-30,user_151,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739067,2024-06-30
+2024-09-05,user_152,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739134,2024-09-05
+2024-09-14,user_153,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739143,2024-09-14
+2024-05-24,user_154,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739030,2024-05-24
+2024-02-12,user_155,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,738928,2024-02-12
+2024-05-12,user_156,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739018,2024-05-12
+2024-10-12,user_157,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739171,2024-10-12
+2024-08-03,user_158,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739101,2024-08-03
+2024-07-20,user_159,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739087,2024-07-20
+2024-06-29,user_160,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739066,2024-06-29
+2024-01-19,user_161,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738904,2024-01-19
+2024-03-10,user_162,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738955,2024-03-10
+2024-09-02,user_163,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739131,2024-09-02
+2024-04-26,user_164,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739002,2024-04-26
+2024-02-20,user_165,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,738936,2024-02-20
+2024-07-07,user_166,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739074,2024-07-07
+2024-03-01,user_167,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,738946,2024-03-01
+2024-06-30,user_168,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739067,2024-06-30
+2024-02-15,user_169,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,738931,2024-02-15
+2024-04-05,user_170,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738981,2024-04-05
+2024-04-29,user_171,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739005,2024-04-29
+2024-03-20,user_172,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738965,2024-03-20
+2024-07-16,user_173,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739083,2024-07-16
+2024-08-16,user_174,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739114,2024-08-16
+2024-01-26,user_175,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738911,2024-01-26
+2024-08-22,user_176,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739120,2024-08-22
+2024-01-29,user_177,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738914,2024-01-29
+2024-04-03,user_178,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,738979,2024-04-03
+2024-08-13,user_179,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739111,2024-08-13
+2024-05-07,user_180,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739013,2024-05-07
+2024-02-27,user_181,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,738943,2024-02-27
+2024-09-02,user_182,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739131,2024-09-02
+2024-01-09,user_183,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738894,2024-01-09
+2024-04-25,user_184,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739001,2024-04-25
+2024-08-12,user_185,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739110,2024-08-12
+2024-03-13,user_186,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,738958,2024-03-13
+2024-05-13,user_187,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739019,2024-05-13
+2024-04-30,user_188,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739006,2024-04-30
+2024-07-10,user_189,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739077,2024-07-10
+2024-01-20,user_190,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738905,2024-01-20
+2024-01-26,user_191,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738911,2024-01-26
+2024-05-08,user_192,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739014,2024-05-08
+2024-03-22,user_193,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738967,2024-03-22
+2024-09-24,user_194,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739153,2024-09-24
+2024-09-08,user_195,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739137,2024-09-08
+2024-05-14,user_196,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739020,2024-05-14
+2024-07-02,user_197,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739069,2024-07-02
+2024-10-05,user_198,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739164,2024-10-05
+2024-08-22,user_199,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739120,2024-08-22
+2024-09-04,user_200,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739133,2024-09-04
+2024-10-10,user_201,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739169,2024-10-10
+2024-06-10,user_202,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739047,2024-06-10
+2024-10-14,user_203,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739173,2024-10-14
+2024-01-22,user_204,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738907,2024-01-22
+2024-09-09,user_205,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,739138,2024-09-09
+2024-05-15,user_206,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739021,2024-05-15
+2024-01-26,user_207,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738911,2024-01-26
+2024-10-17,user_208,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739176,2024-10-17
+2024-05-14,user_209,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739020,2024-05-14
+2024-05-31,user_210,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739037,2024-05-31
+2024-08-24,user_211,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739122,2024-08-24
+2024-04-15,user_212,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738991,2024-04-15
+2024-08-20,user_213,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739118,2024-08-20
+2024-08-08,user_214,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739106,2024-08-08
+2024-07-12,user_215,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739079,2024-07-12
+2024-09-21,user_216,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739150,2024-09-21
+2024-10-15,user_217,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739174,2024-10-15
+2024-05-07,user_218,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739013,2024-05-07
+2024-04-22,user_219,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738998,2024-04-22
+2024-07-19,user_220,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739086,2024-07-19
+2024-05-14,user_221,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739020,2024-05-14
+2024-06-16,user_222,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739053,2024-06-16
+2024-03-19,user_223,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,738964,2024-03-19
+2024-05-13,user_224,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739019,2024-05-13
+2024-03-11,user_225,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738956,2024-03-11
+2024-08-31,user_226,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739129,2024-08-31
+2024-07-22,user_227,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739089,2024-07-22
+2024-01-09,user_228,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,738894,2024-01-09
+2024-04-02,user_229,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738978,2024-04-02
+2024-06-23,user_230,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739060,2024-06-23
+2024-08-28,user_231,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739126,2024-08-28
+2024-09-14,user_232,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739143,2024-09-14
+2024-05-22,user_233,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739028,2024-05-22
+2024-09-20,user_234,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739149,2024-09-20
+2024-04-19,user_235,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738995,2024-04-19
+2024-04-28,user_236,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739004,2024-04-28
+2024-08-13,user_237,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739111,2024-08-13
+2024-05-18,user_238,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739024,2024-05-18
+2024-02-06,user_239,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,738922,2024-02-06
+2024-02-12,user_240,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738928,2024-02-12
+2024-10-17,user_241,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739176,2024-10-17
+2024-06-06,user_242,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739043,2024-06-06
+2024-05-12,user_243,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739018,2024-05-12
+2024-03-10,user_244,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,738955,2024-03-10
+2024-01-09,user_245,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738894,2024-01-09
+2024-02-04,user_246,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,738920,2024-02-04
+2024-02-05,user_247,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738921,2024-02-05
+2024-01-24,user_248,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,738909,2024-01-24
+2024-09-06,user_249,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739135,2024-09-06
+2024-04-27,user_250,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739003,2024-04-27
+2024-05-04,user_251,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739010,2024-05-04
+2024-10-25,user_252,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739184,2024-10-25
+2024-07-10,user_253,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739077,2024-07-10
+2024-03-22,user_254,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738967,2024-03-22
+2024-01-04,user_255,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738889,2024-01-04
+2024-10-24,user_256,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739183,2024-10-24
+2024-03-27,user_257,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738972,2024-03-27
+2024-05-11,user_258,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739017,2024-05-11
+2024-06-24,user_259,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739061,2024-06-24
+2024-01-26,user_260,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,738911,2024-01-26
+2024-01-07,user_261,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,738892,2024-01-07
+2024-03-05,user_262,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738950,2024-03-05
+2024-09-02,user_263,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739131,2024-09-02
+2024-05-22,user_264,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739028,2024-05-22
+2024-06-04,user_265,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739041,2024-06-04
+2024-06-19,user_266,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739056,2024-06-19
+2024-02-29,user_267,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738945,2024-02-29
+2024-07-04,user_268,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739071,2024-07-04
+2024-04-19,user_269,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738995,2024-04-19
+2024-03-05,user_270,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738950,2024-03-05
+2024-04-25,user_271,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739001,2024-04-25
+2024-04-28,user_272,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739004,2024-04-28
+2024-02-08,user_273,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,738924,2024-02-08
+2024-06-12,user_274,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739049,2024-06-12
+2024-08-30,user_275,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739128,2024-08-30
+2024-09-13,user_276,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739142,2024-09-13
+2024-06-15,user_277,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739052,2024-06-15
+2024-07-10,user_278,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739077,2024-07-10
+2024-06-12,user_279,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739049,2024-06-12
+2024-10-23,user_280,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739182,2024-10-23
+2024-09-18,user_281,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739147,2024-09-18
+2024-03-21,user_282,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738966,2024-03-21
+2024-04-03,user_283,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738979,2024-04-03
+2024-03-10,user_284,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738955,2024-03-10
+2024-06-21,user_285,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739058,2024-06-21
+2024-09-15,user_286,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739144,2024-09-15
+2024-09-25,user_287,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739154,2024-09-25
+2024-07-27,user_288,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739094,2024-07-27
+2024-07-22,user_289,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739089,2024-07-22
+2024-08-30,user_290,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739128,2024-08-30
+2024-08-14,user_291,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739112,2024-08-14
+2024-06-04,user_292,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739041,2024-06-04
+2024-03-10,user_293,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,738955,2024-03-10
+2024-10-01,user_294,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739160,2024-10-01
+2024-05-03,user_295,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739009,2024-05-03
+2024-02-05,user_296,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,738921,2024-02-05
+2024-10-20,user_297,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739179,2024-10-20
+2024-05-30,user_298,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739036,2024-05-30
+2024-05-13,user_299,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739019,2024-05-13
+2024-06-26,user_300,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739063,2024-06-26
+2024-02-17,user_301,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,738933,2024-02-17
+2024-07-04,user_302,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739071,2024-07-04
+2024-07-17,user_303,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739084,2024-07-17
+2024-01-05,user_304,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,738890,2024-01-05
+2024-08-27,user_305,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739125,2024-08-27
+2024-03-02,user_306,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,738947,2024-03-02
+2024-08-25,user_307,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739123,2024-08-25
+2024-05-23,user_308,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739029,2024-05-23
+2024-07-08,user_309,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739075,2024-07-08
+2024-09-08,user_310,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739137,2024-09-08
+2024-10-07,user_311,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739166,2024-10-07
+2024-07-23,user_312,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739090,2024-07-23
+2024-10-11,user_313,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739170,2024-10-11
+2024-08-05,user_314,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739103,2024-08-05
+2024-07-09,user_315,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739076,2024-07-09
+2024-02-13,user_316,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,738929,2024-02-13
+2024-04-23,user_317,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,738999,2024-04-23
+2024-10-01,user_318,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739160,2024-10-01
+2024-08-18,user_319,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739116,2024-08-18
+2024-10-09,user_320,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739168,2024-10-09
+2024-02-29,user_321,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738945,2024-02-29
+2024-07-24,user_322,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739091,2024-07-24
+2024-01-23,user_323,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738908,2024-01-23
+2024-02-18,user_324,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,738934,2024-02-18
+2024-01-24,user_325,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738909,2024-01-24
+2024-02-07,user_326,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738923,2024-02-07
+2024-08-07,user_327,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739105,2024-08-07
+2024-09-08,user_328,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739137,2024-09-08
+2024-05-03,user_329,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739009,2024-05-03
+2024-06-17,user_330,Loved the new series on SonyLIV!,loved new series sonyliv,0.41818181818181815,0.6272727272727273,Positive,739054,2024-06-17
+2024-10-02,user_331,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739161,2024-10-02
+2024-05-22,user_332,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739028,2024-05-22
+2024-08-05,user_333,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739103,2024-08-05
+2024-08-03,user_334,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739101,2024-08-03
+2024-01-08,user_335,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,738893,2024-01-08
+2024-04-06,user_336,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,738982,2024-04-06
+2024-07-17,user_337,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739084,2024-07-17
+2024-05-01,user_338,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739007,2024-05-01
+2024-07-28,user_339,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739095,2024-07-28
+2024-03-14,user_340,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,738959,2024-03-14
+2024-07-28,user_341,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739095,2024-07-28
+2024-06-30,user_342,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739067,2024-06-30
+2024-01-21,user_343,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,738906,2024-01-21
+2024-05-21,user_344,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739027,2024-05-21
+2024-02-12,user_345,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738928,2024-02-12
+2024-03-27,user_346,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738972,2024-03-27
+2024-07-01,user_347,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739068,2024-07-01
+2024-06-18,user_348,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739055,2024-06-18
+2024-05-15,user_349,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739021,2024-05-15
+2024-08-08,user_350,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739106,2024-08-08
+2024-05-02,user_351,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739008,2024-05-02
+2024-03-16,user_352,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,738961,2024-03-16
+2024-10-12,user_353,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739171,2024-10-12
+2024-03-20,user_354,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,738965,2024-03-20
+2024-09-29,user_355,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739158,2024-09-29
+2024-04-23,user_356,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,738999,2024-04-23
+2024-09-13,user_357,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739142,2024-09-13
+2024-05-18,user_358,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739024,2024-05-18
+2024-06-29,user_359,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739066,2024-06-29
+2024-10-12,user_360,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739171,2024-10-12
+2024-07-15,user_361,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739082,2024-07-15
+2024-01-11,user_362,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738896,2024-01-11
+2024-02-20,user_363,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738936,2024-02-20
+2024-02-17,user_364,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738933,2024-02-17
+2024-01-17,user_365,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738902,2024-01-17
+2024-06-05,user_366,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739042,2024-06-05
+2024-01-14,user_367,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,738899,2024-01-14
+2024-09-06,user_368,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739135,2024-09-06
+2024-08-27,user_369,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739125,2024-08-27
+2024-04-02,user_370,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,738978,2024-04-02
+2024-05-10,user_371,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739016,2024-05-10
+2024-02-23,user_372,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,738939,2024-02-23
+2024-06-18,user_373,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739055,2024-06-18
+2024-01-03,user_374,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,738888,2024-01-03
+2024-07-10,user_375,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739077,2024-07-10
+2024-09-21,user_376,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739150,2024-09-21
+2024-05-03,user_377,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739009,2024-05-03
+2024-03-20,user_378,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738965,2024-03-20
+2024-07-08,user_379,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739075,2024-07-08
+2024-06-27,user_380,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739064,2024-06-27
+2024-06-09,user_381,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739046,2024-06-09
+2024-03-24,user_382,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,738969,2024-03-24
+2024-05-30,user_383,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739036,2024-05-30
+2024-10-10,user_384,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739169,2024-10-10
+2024-08-30,user_385,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739128,2024-08-30
+2024-03-29,user_386,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,738974,2024-03-29
+2024-10-17,user_387,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739176,2024-10-17
+2024-05-21,user_388,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739027,2024-05-21
+2024-07-24,user_389,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739091,2024-07-24
+2024-06-12,user_390,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739049,2024-06-12
+2024-06-24,user_391,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739061,2024-06-24
+2024-08-06,user_392,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739104,2024-08-06
+2024-08-30,user_393,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739128,2024-08-30
+2024-05-07,user_394,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739013,2024-05-07
+2024-06-14,user_395,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739051,2024-06-14
+2024-06-30,user_396,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739067,2024-06-30
+2024-05-06,user_397,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739012,2024-05-06
+2024-06-11,user_398,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739048,2024-06-11
+2024-06-19,user_399,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739056,2024-06-19
+2024-10-26,user_400,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739185,2024-10-26
+2024-10-21,user_401,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739180,2024-10-21
+2024-09-01,user_402,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,739130,2024-09-01
+2024-08-16,user_403,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739114,2024-08-16
+2024-10-20,user_404,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739179,2024-10-20
+2024-07-13,user_405,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739080,2024-07-13
+2024-04-21,user_406,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738997,2024-04-21
+2024-01-30,user_407,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738915,2024-01-30
+2024-07-28,user_408,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739095,2024-07-28
+2024-01-22,user_409,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,738907,2024-01-22
+2024-04-09,user_410,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,738985,2024-04-09
+2024-02-12,user_411,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,738928,2024-02-12
+2024-02-22,user_412,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,738938,2024-02-22
+2024-08-12,user_413,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739110,2024-08-12
+2024-02-01,user_414,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,738917,2024-02-01
+2024-10-20,user_415,"Too many ads on Prime Video, please fix.",many ad prime video please fix,0.5,0.5,Positive,739179,2024-10-20
+2024-03-15,user_416,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738960,2024-03-15
+2024-01-18,user_417,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,738903,2024-01-18
+2024-06-24,user_418,Buffering issues on Hotstar all the time.,buffering issue hotstar time,0.0,0.0,Neutral,739061,2024-06-24
+2024-01-15,user_419,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738900,2024-01-15
+2024-10-22,user_420,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,739181,2024-10-22
+2024-08-03,user_421,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739101,2024-08-03
+2024-03-25,user_422,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738970,2024-03-25
+2024-03-31,user_423,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738976,2024-03-31
+2024-05-01,user_424,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,739007,2024-05-01
+2024-03-20,user_425,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738965,2024-03-20
+2024-08-31,user_426,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739129,2024-08-31
+2024-05-01,user_427,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,739007,2024-05-01
+2024-06-16,user_428,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739053,2024-06-16
+2024-03-28,user_429,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,738973,2024-03-28
+2024-02-19,user_430,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738935,2024-02-19
+2024-07-21,user_431,Hotstar subscription cost is too high!,hotstar subscription cost high,0.16,0.54,Positive,739088,2024-07-21
+2024-08-06,user_432,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739104,2024-08-06
+2024-10-17,user_433,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739176,2024-10-17
+2024-09-11,user_434,SonyLIV subscription cost is too high!,sonyliv subscription cost high,0.16,0.54,Positive,739140,2024-09-11
+2024-05-24,user_435,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739030,2024-05-24
+2024-01-05,user_436,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,738890,2024-01-05
+2024-08-07,user_437,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739105,2024-08-07
+2024-09-27,user_438,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739156,2024-09-27
+2024-08-15,user_439,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739113,2024-08-15
+2024-05-25,user_440,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739031,2024-05-25
+2024-10-17,user_441,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739176,2024-10-17
+2024-06-09,user_442,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739046,2024-06-09
+2024-04-06,user_443,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738982,2024-04-06
+2024-09-25,user_444,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739154,2024-09-25
+2024-09-02,user_445,The streaming on Prime Video is so smooth!,streaming prime video smooth,0.4,0.5,Positive,739131,2024-09-02
+2024-07-05,user_446,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739072,2024-07-05
+2024-03-15,user_447,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,738960,2024-03-15
+2024-02-09,user_448,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738925,2024-02-09
+2024-06-24,user_449,I might unsubscribe from Netflix soon.,might unsubscribe netflix soon,0.0,0.0,Neutral,739061,2024-06-24
+2024-05-29,user_450,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739035,2024-05-29
+2024-08-10,user_451,Netflix app keeps crashing lately.,netflix app keep crashing lately,-0.3,0.6,Negative,739108,2024-08-10
+2024-06-10,user_452,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739047,2024-06-10
+2024-07-14,user_453,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,739081,2024-07-14
+2024-07-25,user_454,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739092,2024-07-25
+2024-01-17,user_455,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738902,2024-01-17
+2024-04-03,user_456,I might unsubscribe from Hotstar soon.,might unsubscribe hotstar soon,0.0,0.0,Neutral,738979,2024-04-03
+2024-06-09,user_457,"Too many ads on SonyLIV, please fix.",many ad sonyliv please fix,0.5,0.5,Positive,739046,2024-06-09
+2024-08-22,user_458,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739120,2024-08-22
+2024-03-27,user_459,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,738972,2024-03-27
+2024-10-16,user_460,Buffering issues on SonyLIV all the time.,buffering issue sonyliv time,0.0,0.0,Neutral,739175,2024-10-16
+2024-08-02,user_461,Loved the new series on Netflix!,loved new series netflix,0.41818181818181815,0.6272727272727273,Positive,739100,2024-08-02
+2024-10-16,user_462,Loved the new series on Prime Video!,loved new series prime video,0.41818181818181815,0.6272727272727273,Positive,739175,2024-10-16
+2024-07-13,user_463,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739080,2024-07-13
+2024-01-11,user_464,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,738896,2024-01-11
+2024-05-25,user_465,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739031,2024-05-25
+2024-05-30,user_466,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739036,2024-05-30
+2024-02-18,user_467,"Too many ads on Hotstar, please fix.",many ad hotstar please fix,0.5,0.5,Positive,738934,2024-02-18
+2024-09-30,user_468,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739159,2024-09-30
+2024-01-24,user_469,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,738909,2024-01-24
+2024-07-22,user_470,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,739089,2024-07-22
+2024-08-13,user_471,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739111,2024-08-13
+2024-04-11,user_472,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,738987,2024-04-11
+2024-09-08,user_473,The streaming on Hotstar is so smooth!,streaming hotstar smooth,0.4,0.5,Positive,739137,2024-09-08
+2024-09-17,user_474,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739146,2024-09-17
+2024-10-12,user_475,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,739171,2024-10-12
+2024-05-17,user_476,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,739023,2024-05-17
+2024-06-25,user_477,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739062,2024-06-25
+2024-03-28,user_478,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,738973,2024-03-28
+2024-02-08,user_479,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738924,2024-02-08
+2024-09-30,user_480,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739159,2024-09-30
+2024-01-09,user_481,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,738894,2024-01-09
+2024-07-19,user_482,The streaming on Netflix is so smooth!,streaming netflix smooth,0.4,0.5,Positive,739086,2024-07-19
+2024-04-05,user_483,Prime Video app keeps crashing lately.,prime video app keep crashing lately,-0.3,0.6,Negative,738981,2024-04-05
+2024-03-27,user_484,Prime Video subscription cost is too high!,prime video subscription cost high,0.16,0.54,Positive,738972,2024-03-27
+2024-04-12,user_485,Buffering issues on Netflix all the time.,buffering issue netflix time,0.0,0.0,Neutral,738988,2024-04-12
+2024-09-02,user_486,I might unsubscribe from Prime Video soon.,might unsubscribe prime video soon,0.0,0.0,Neutral,739131,2024-09-02
+2024-02-13,user_487,"Too many ads on Netflix, please fix.",many ad netflix please fix,0.5,0.5,Positive,738929,2024-02-13
+2024-10-19,user_488,Prime Video has the best collection of shows.,prime video best collection show,1.0,0.3,Positive,739178,2024-10-19
+2024-04-26,user_489,The streaming on SonyLIV is so smooth!,streaming sonyliv smooth,0.4,0.5,Positive,739002,2024-04-26
+2024-07-18,user_490,SonyLIV app keeps crashing lately.,sonyliv app keep crashing lately,-0.3,0.6,Negative,739085,2024-07-18
+2024-04-02,user_491,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,738978,2024-04-02
+2024-04-27,user_492,I might unsubscribe from SonyLIV soon.,might unsubscribe sonyliv soon,0.0,0.0,Neutral,739003,2024-04-27
+2024-09-28,user_493,Loved the new series on Hotstar!,loved new series hotstar,0.41818181818181815,0.6272727272727273,Positive,739157,2024-09-28
+2024-10-22,user_494,Hotstar has the best collection of shows.,hotstar best collection show,1.0,0.3,Positive,739181,2024-10-22
+2024-06-10,user_495,Netflix subscription cost is too high!,netflix subscription cost high,0.16,0.54,Positive,739047,2024-06-10
+2024-02-11,user_496,SonyLIV has the best collection of shows.,sonyliv best collection show,1.0,0.3,Positive,738927,2024-02-11
+2024-02-16,user_497,Buffering issues on Prime Video all the time.,buffering issue prime video time,0.0,0.0,Neutral,738932,2024-02-16
+2024-09-30,user_498,Netflix has the best collection of shows.,netflix best collection show,1.0,0.3,Positive,739159,2024-09-30
+2024-05-24,user_499,Hotstar app keeps crashing lately.,hotstar app keep crashing lately,-0.3,0.6,Negative,739030,2024-05-24
